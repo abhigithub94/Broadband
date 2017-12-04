@@ -1,0 +1,159 @@
+.sec1 .row{
+	margin: 0px;
+}
+.navbar.navbar-inverse.navbar.example6{
+  background-color: #656262;
+  margin:0px;
+  padding: 1% 0%;
+  width: 100%;
+}
+
+#headingnav{
+  color: white;
+  font-size: 35px;
+   font-family: Brush Script MT;
+}
+#headingnav{
+	border-radius: 8px;
+}
+#headingnav  img
+{
+	position: absolute;
+	top: 7px;
+}
+
+#mainnavmenu li{
+	border-radius:8px;
+}
+#mainnavmenu li a{
+  color: white;
+   font-weight: 600;
+    font-size: 15px;
+}
+
+#mainnavmenu li:hover{
+      background-color: #5bb300;
+}
+/*section2*/
+#box2{
+	height: 88vh;
+	width: 100%;
+	background-image: url("../images/town.jpg");
+	background-size:cover;
+	display: table;
+	background-attachment: fixed;
+}
+.sec2 .row{
+	margin: 0px;
+}
+.sec2 .col-md-12{
+	text-align: center;
+}
+.sec2 .col-md-12 h1{
+	color: white;
+	font-size: 50px;
+	font-weight: 600;
+}
+.sec2 .col-md-12 .h1{
+	padding-top: 12%;
+}
+
+/*section3*/
+.sec3 .row{
+	margin: 0px;
+}
+.sec3 .col-md-12{
+	text-align: center;
+	padding: 7% 0%;
+}
+/*section 4*/
+.sec4 .row
+{
+	margin: 0px;
+}
+.sec4 .col-md-12{
+	background-color: #5bb300; 
+	text-align: center;
+	margin: 0px;
+	padding: 1% 0%;
+}
+/*section 5*/
+.sec5 .row
+{
+	margin: 0px;
+}
+.sec5 .col-md-12{ 
+	text-align: center;
+	padding: 4% 0%;
+}
+/*section6*/
+.sec6 .row{
+  margin: 0px;
+}
+.sec6{
+	padding: 0% 10%;
+	background-color:#292626; 
+}
+.sec6 .row .col-md-12{
+	display:flex;
+}
+.sec6 .row .col-md-12 .col-md-4{
+	color: white;
+}
+.sec6 .row .col-md-12 .col-md-4 .fa{
+	font-size: x-large;
+	margin-right: 3%;
+}
+.sec6 .row .col-md-12 .col-md-4 nav{
+	color: white;
+}
+.sec6 .row .col-md-12 .col-md-4 nav ul{
+	list-style: none;
+}
+.sec6 .row .col-md-12 .col-md-4 nav ul li{
+	font-size: smaller;
+}
+.sec6 .row .col-md-12 .col-md-4 nav ul hr{
+	margin-top: 4%;
+	margin-bottom: 4%;
+	border-top: 1px solid white;
+}
+.sec6 .row .col-md-12 .col-md-4 p{
+	font-size: smaller;
+}
+.sec6 .row .col-md-12 .col-md-4 .col-md-6{
+	display:flex;
+} 
+.sec6 .row .col-md-12 .col-md-4 .col-md-6 nav ul{
+	padding-left: 0px;
+}
+.sec6 .row .col-md-12 .col-md-4 nav ul li{
+	font-size: 16px;
+}
+.sec6 .row .col-md-12 .col-md-4 .col-md-12{
+	padding-left: 0px;
+}
+.sec6 .row .col-md-12 .col-md-4 .col-md-12 nav ul{
+	display: flex;
+	padding-left: 0px;
+}
+.sec6 .row .col-md-12 .col-md-4 .col-md-12 nav ul li{
+	margin: auto;
+	float: left;
+	margin-left: 0px;
+	margin-right: 10%;
+}
+.sec6 .row .col-md-12 .col-md-4 .col-md-12 .col-md-9{
+	padding-left: 0px;
+}
+.sec6 .row .col-md-12 .col-md-4 .col-md-12 .col-md-9 input{
+	width: 100%
+}
+.sec6 .row .col-md-12 .col-md-4 .col-md-12 .col-md-3{
+	padding-left: 0px;
+}
+.sec6 .btn.btn-default.btn-sm.bb{
+	background-color: #579e0e;
+	border-color: #579e0e;
+	color: white;
+}
